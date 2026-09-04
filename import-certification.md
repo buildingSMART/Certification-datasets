@@ -22,7 +22,7 @@ This set is part of buildingSMART’s commitment to open, transparent, and repea
    Confirm that the projected Coordinate Reference System (CRS) is interpreted and imported accurately.
 
 1. **Spatial breakdown**  
-   Confirm the correct hierarchy for spatial containers (for example, in the PCERT example data: Project > Site > Building > Storey).
+   Confirm the correct hierarchy for spatial containers (for example, in the Simple-Scene example data: Project > Site > Building > Storey).
 
 1. **Material assignment**  
    Ensure that materials assigned in the IFC file are correctly associated with elements upon import.
